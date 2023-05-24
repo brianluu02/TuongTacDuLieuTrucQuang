@@ -1,0 +1,101 @@
+Senate Vote #602 1995-12-13T22:21:00 - S.Con.Res. 35 (104th): A concurrent resolution expressing the opposition of the Congress to President Clinton’s planned deployment of United States ...
+person,state,district,vote,name,party
+300001,HI,,Nay,"Sen. Daniel Akaka [D, 1990-2012]",Democrat
+300005,MT,,Nay,"Sen. Max Baucus [D, 1978-2014]",Democrat
+300007,UT,,Yea,"Sen. Robert Bennett [R, 1993-2010]",Republican
+300008,DE,,Nay,"Sen. Joseph Biden [D, 1973-2009]",Democrat
+300009,NM,,Nay,"Sen. Jeff Bingaman [D, 1983-2012]",Democrat
+300010,MO,,Yea,"Sen. Christopher “Kit” Bond [R, 1987-2010]",Republican
+300011,CA,,Nay,"Sen. Barbara Boxer [D, 1993-2016]",Democrat
+300012,LA,,Nay,"Sen. John Breaux [D, 1987-2004]",Democrat
+300015,MT,,Yea,"Sen. Conrad Burns [R, 1989-2006]",Republican
+300016,WV,,Nay,"Sen. Robert Byrd [D, 1959-2010]",Democrat
+300017,CO,,Yea,"Sen. Ben Campbell [R, 1993-2004]",Republican
+300023,MS,,Yea,"Sen. Thad Cochran [R, 1979-2018]",Republican
+300026,ND,,Nay,"Sen. Kent Conrad [D, 1992-2012]",Democrat
+300029,ID,,Yea,"Sen. Larry Craig [R, 1991-2008]",Republican
+300031,SD,,Nay,"Sen. Thomas “Tom” Daschle [D, 1987-2004]",Democrat
+300033,OH,,Nay,"Sen. Michael “Mike” DeWine [R, 1995-2006]",Republican
+300034,CT,,Nay,"Sen. Christopher Dodd [D, 1981-2010]",Democrat
+300036,NM,,Yea,"Sen. Pete Domenici [R, 1973-2008]",Republican
+300037,ND,,Nay,"Sen. Byron Dorgan [D, 1992-2010]",Democrat
+300042,WI,,Yea,"Sen. Russell Feingold [D, 1993-2010]",Democrat
+300043,CA,,Nay,"Sen. Dianne Feinstein [D, 1992-2024]",Democrat
+300045,TN,,Yea,"Sen. William “Bill” Frist [R, 1995-2006]",Republican
+300046,FL,,Nay,"Sen. Bob Graham [D, 1987-2004]",Democrat
+300048,IA,,Yea,"Sen. Charles “Chuck” Grassley [R, 1981-2028]",Republican
+300049,NH,,Yea,"Sen. Judd Gregg [R, 1993-2010]",Republican
+300051,IA,,Nay,"Sen. Thomas “Tom” Harkin [D, 1985-2014]",Democrat
+300052,UT,,Yea,"Sen. Orrin Hatch [R, 1977-2018]",Republican
+300053,SC,,Nay,"Sen. Ernest “Fritz” Hollings [D, 1966-2004]",Democrat
+300054,TX,,Yea,"Sen. Kay Hutchison [R, 1993-2012]",Republican
+300055,OK,,Yea,"Sen. James “Jim” Inhofe [R, 1994-2022]",Republican
+300056,HI,,Nay,"Sen. Daniel Inouye [D, 1963-2012]",Democrat
+300057,VT,,Nay,"Sen. James “Jim” Jeffords [R, 1989-2006]",Republican
+300059,MA,,Nay,"Sen. Edward “Ted” Kennedy [D, 1962-2009]",Democrat
+300060,MA,,Nay,"Sen. John Kerry [D, 1985-2013]",Democrat
+300061,WI,,Nay,"Sen. Herbert “Herb” Kohl [D, 1989-2012]",Democrat
+300062,AZ,,Yea,"Sen. Jon Kyl [R, 1995-2012]",Republican
+300064,NJ,,Nay,"Sen. Frank Lautenberg [D, 1982-2000]",Democrat
+300065,VT,,Nay,"Sen. Patrick Leahy [D, 1975-2022]",Democrat
+300066,MI,,Nay,"Sen. Carl Levin [D, 1979-2014]",Democrat
+300067,CT,,Nay,"Sen. Joseph Lieberman [D, 1989-2012]",Democrat
+300069,MS,,Yea,"Sen. Trent Lott [R, 1989-2007]",Republican
+300070,IN,,Nay,"Sen. Richard Lugar [R, 1977-2012]",Republican
+300071,AZ,,Nay,"Sen. John McCain [R, 1987-2018]",Republican
+300072,KY,,Yea,"Sen. Mitch McConnell [R, 1985-2026]",Republican
+300073,MD,,Nay,"Sen. Barbara Mikulski [D, 1987-2016]",Democrat
+300076,WA,,Nay,"Sen. Patty Murray [D, 1993-2028]",Democrat
+300079,OK,,Yea,"Sen. Don Nickles [R, 1981-2004]",Republican
+300082,NV,,Nay,"Sen. Harry Reid [D, 1987-2016]",Democrat
+300084,WV,,Nay,"Sen. John “Jay” Rockefeller [D, 1985-2014]",Democrat
+300085,PA,,Yea,"Sen. Richard “Rick” Santorum [R, 1995-2006]",Republican
+300086,MD,,Nay,"Sen. Paul Sarbanes [D, 1977-2006]",Democrat
+300089,AL,,Yea,"Sen. Richard Shelby [R, 1987-2022]",Republican
+300091,ME,,Yea,"Sen. Olympia Snowe [R, 1995-2012]",Republican
+300092,PA,,Yea,"Sen. Arlen Specter [R, 1981-2010]",Republican
+300094,AK,,Yea,"Sen. Ted Stevens [R, 1968-2008]",Republican
+300097,WY,,Yea,"Sen. Craig Thomas [R, 1995-2007]",Republican
+300099,VA,,Yea,"Sen. John Warner [R, 1979-2008]",Republican
+300150,AK,,Yea,"Sen. Frank Murkowski [R, 1981-2002]",Republican
+300154,NC,,Yea,"Sen. Jesse Helms [R, 1973-2002]",Republican
+300155,NH,,Yea,"Sen. Robert “Bob” Smith [R, 1990-2002]",Republican
+300157,SC,,Yea,"Sen. Strom Thurmond [R, 1956-2002]",Republican
+300158,TN,,Yea,"Sen. Fred Thompson [R, 1994-2002]",Republican
+300159,TX,,Yea,"Sen. Phil Gramm [R, 1985-2002]",Republican
+400555,MI,,Yea,"Sen. Spencer Abraham [R, 1995-2000]",Republican
+400556,MO,,Yea,"Sen. John Ashcroft [R, 1995-2000]",Republican
+400557,NV,,Nay,"Sen. Richard Bryan [D, 1989-2000]",Democrat
+400558,GA,,Yea,"Sen. Paul Coverdell [R, 1993-2000]",Republican
+400559,WA,,Yea,"Sen. Slade Gorton [R, 1989-2000]",Republican
+400560,MN,,Yea,"Sen. Rod Grams [R, 1995-2000]",Republican
+400561,NE,,Nay,"Sen. Robert Kerrey [D, 1989-2000]",Democrat
+400562,FL,,Yea,"Sen. Connie Mack III [R, 1989-2000]",Republican
+400563,NY,,Nay,"Sen. Daniel Moynihan [D, 1977-2000]",Democrat
+400564,VA,,Nay,"Sen. Charles Robb [D, 1989-2000]",Democrat
+400565,DE,,Nay,"Sen. William Roth [R, 1971-2000]",Republican
+400566,MN,,Nay,"Sen. Paul Wellstone [D, 1991-2002]",Democrat
+401709,NJ,,Nay,"Sen. William Warren “Bill” Bradley [D, 1979-1996]",Democrat
+401874,CO,,Yea,"Sen. George Hanks “Hank” Brown [R, 1991-1996]",Republican
+402004,AR,,Nay,"Sen. Dale Bumpers [D, 1975-1998]",Democrat
+402412,RI,,Nay,"Sen. John Chafee [R, 1976-1999]",Republican
+402675,IN,,Yea,"Sen. Daniel Coats [R, 1989-1998]",Republican
+402727,ME,,Yea,"Sen. William Sebastian Cohen [R, 1979-1996]",Republican
+403142,NY,,Yea,"Sen. Alfonse D’Amato [R, 1981-1998]",Republican
+403515,KS,,Yea,"Sen. Robert Dole [R, 1969-1996]",Republican
+403962,NE,,Nay,"Sen. James Exon [D, 1979-1996]",Democrat
+403968,NC,,Yea,"Sen. Duncan “Lauch” Faircloth [R, 1993-1998]",Republican
+404219,KY,,Nay,"Sen. Wendell Ford [D, 1974-1998]",Democrat
+404598,OH,,Nay,"Sen. John Glenn [D, 1974-1998]",Democrat
+405212,OR,,Yea,"Sen. Mark Hatfield [R, 1967-1996]",Republican
+405310,AL,,Nay,"Sen. Howell Heflin [D, 1979-1996]",Democrat
+406084,LA,,Nay,"Sen. John Bennett Johnston [D, 1972-1996]",Democrat
+406188,KS,,Nay,"Sen. Nancy Kassebaum [R, 1978-1996]",Republican
+406256,ID,,Yea,"Sen. Dirk Kempthorne [R, 1993-1998]",Republican
+407992,IL,,Nay,"Sen. Carol Moseley Braun [D, 1993-1998]",Democrat
+408252,GA,,Nay,"Sen. Samuel Nunn [D, 1972-1996]",Democrat
+408597,RI,,Nay,"Sen. Claiborne Pell [D, 1961-1996]",Democrat
+408898,SD,,Yea,"Sen. Larry Pressler [R, 1979-1996]",Republican
+408939,AR,,Nay,"Sen. David Pryor [D, 1979-1996]",Democrat
+409917,IL,,Nay,"Sen. Paul Simon [D, 1985-1996]",Democrat
+409923,WY,,Yea,"Sen. Alan Simpson [R, 1979-1996]",Republican
